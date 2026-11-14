@@ -1,11 +1,35 @@
 {
  "edicao": "2026-11-14",
- "gerado_em": "2026-11-14T18:55-03:00",
+ "gerado_em": "2026-11-14T19:00-03:00",
  "janela": {
   "inicio": "2026-11-13T06:00-03:00",
   "fim": "2026-11-14T06:00-03:00"
  },
  "tres_do_dia": [
+  {
+   "titulo": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país",
+   "trecho": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração…",
+   "fonte_texto": "G1",
+   "cat": "mundo",
+   "hora": "2026-11-14T00:00-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/14/o-efeito-cascata-da-suspensao-de-voos-nos-eua-trens-sobrecarregados-brasil-impactado-e-horas-para-normalizar-fluxo.ghtml",
+     "paywall": false
+    },
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-encerram-suspensao-de-voos-apos-4-horas-de-paralisacao.shtml",
+     "paywall": true
+    },
+    {
+     "nome": "Estadão",
+     "link": "https://www.estadao.com.br/internacional/ao-vivo-suspensao-de-voos-nos-estados-unidos/",
+     "paywall": true
+    }
+   ]
+  },
   {
    "titulo": "Toffoli dá 3 dias para campanha de Lula esclarecer inconsistências nas contas apontadas pelo TSE",
    "trecho": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), deu prazo de três dias para a campanha à reeleição da chapa Lula-Alckmin apresentar esclarecimentos sobre inconsistências nas contas apontadas pela área técnica da Corte Eleitoral. Toffoli deu três dias para que a…",
@@ -31,39 +55,20 @@
    ]
   },
   {
-   "titulo": "Suspensão de voos nos EUA: veja FOTOS de aeroportos durante paralisação",
-   "trecho": "A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de todas as decolagens no país após um problema de comunicação que afeta os centros de controle de tráfego aéreo. 📱Favorite o g1 no Google e acompanhe as…",
+   "titulo": "FBI desmantela rede de hackers da Coreia do Norte; objetivo do golpe era financiar armas ilícitas no país",
+   "trecho": "O líder norte-coreano Kim Jong Un participa de uma exposição de tecnologia aeronáutica não tripulada e de uma demonstração de armamentos, nesta foto divulgada pela Agência Central de Notícias da Coreia do Norte (KCNA) em 30 de outubro de 2026. KCNA via Reuters O Departamento de…",
    "fonte_texto": "G1",
    "cat": "mundo",
-   "hora": "2026-11-14T00:00-03:00",
+   "hora": "2026-11-14T02:01-03:00",
    "fontes": [
     {
      "nome": "G1",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/14/o-efeito-cascata-da-suspensao-de-voos-nos-eua-trens-sobrecarregados-brasil-impactado-e-horas-para-normalizar-fluxo.ghtml",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/14/fbi-desmantela-rede-de-hackers-da-coreia-do-norte-objetivo-do-golpe-era-financiar-armas-ilicitas-no-pais.ghtml",
      "paywall": false
     },
     {
-     "nome": "Folha",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-encerram-suspensao-de-voos-apos-4-horas-de-paralisacao.shtml",
-     "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "Cármen diz que Bolsonaro violou liberdade de imprensa ao bloquear jornalistas no X quando era presidente",
-   "trecho": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), afirmou, em decisão desta sexta-feira (13), que o ex-presidente Jair Bolsonaro feriu a garantia constitucional da liberdade de imprensa e ofendeu o direito de informação ao bloquear jornalistas na rede social X durante…",
-   "fonte_texto": "G1",
-   "cat": "politica",
-   "hora": "2026-11-13T22:02-03:00",
-   "fontes": [
-    {
-     "nome": "Estadão",
-     "link": "https://www.estadao.com.br/politica/carmen-lucia-conclui-que-bolsonaro-feriu-a-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-nprp/",
-     "paywall": true
-    },
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/politica/noticia/2026/11/13/carmen-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-quando-era-presidente.ghtml",
+     "nome": "DW Brasil",
+     "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-rdf",
      "paywall": false
     }
    ]
@@ -102,61 +107,61 @@
   ],
   "politica": [
    {
-    "titulo": "Fachin defende indicação de uma mulher negra para o STF",
-    "trecho": "Fachin defende indicação de uma mulher negra para o STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no encerramento do 9º…",
+    "titulo": "Cármen diz que Bolsonaro violou liberdade de imprensa ao bloquear jornalistas no X quando era presidente",
+    "trecho": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), afirmou, em decisão desta sexta-feira (13), que o ex-presidente Jair Bolsonaro feriu a garantia constitucional da liberdade de imprensa e ofendeu o direito de informação ao bloquear jornalistas na rede social X durante…",
     "fonte_texto": "G1",
     "cat": "politica",
-    "hora": "2026-11-13T17:44-03:00",
+    "hora": "2026-11-13T22:02-03:00",
     "fontes": [
      {
-      "nome": "Folha",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-defende-indicacao-de-mulher-negra-para-o-stf.shtml",
+      "nome": "Estadão",
+      "link": "https://www.estadao.com.br/politica/carmen-lucia-conclui-que-bolsonaro-feriu-a-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-nprp/",
       "paywall": true
      },
      {
       "nome": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/carmen-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-quando-era-presidente.ghtml",
       "paywall": false
      }
     ]
    },
    {
-    "titulo": "Fachin atende a pedido da OAB e suspende prazos processuais em razão de falhas nos sistemas da Microsoft",
-    "trecho": "Pane na Microsoft afeta empresas e governos O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, determinou nesta sexta-feira (13) a suspensão da contagem dos prazos processuais em todo o país nos dias 12 e 13 de novembro de 2026. A medida, que vale também…",
-    "fonte_texto": "G1",
+    "titulo": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
+    "trecho": "O ajuste fiscal não é incompatível com as promessas de campanha do quarto mandato de Luiz Inácio Lula da Silva (PT) , afirmou o banqueiro André Esteves, presidente do conselho e principal sócio do BTG Pactual , nesta sexta-feira (13). Leia mais (11/13/2026 - 14h21)",
+    "fonte_texto": "Folha",
     "cat": "politica",
-    "hora": "2026-11-13T15:52-03:00",
+    "hora": "2026-11-13T17:59-03:00",
     "fontes": [
      {
-      "nome": "Folha",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/fachin-atende-a-oab-e-prorroga-prazos-processuais-apos-pane-da-microsoft.shtml",
+      "nome": "Estadão",
+      "link": "https://www.estadao.com.br/politica/silvio-cascione/clareza-sobre-ajuste-fiscal-ajudara-a-sustentar-promessas-de-lula/",
       "paywall": true
      },
      {
-      "nome": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml",
-      "paywall": false
+      "nome": "Folha",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
+      "paywall": true
      }
     ]
    }
   ],
   "economia": [
    {
-    "titulo": "Paralisação de voos nos EUA: Anac diz monitorar situação e recomenda que passageiros procurem companhias aéreas",
-    "trecho": "Falha na comunicação causa suspensão de decolagens em todos os aeroportos dos EUA A Agência Nacional de Aviação Civil (Anac) informou que está monitorando a situação dos voos paralisados nos EUA e recomenda aos passageiros que busquem as companhias aéreas para verificar a…",
-    "fonte_texto": "G1",
+    "titulo": "BC aprova compra de banco pelo Nubank, que passará a ter licença bancária no Brasil",
+    "trecho": "O Nubank anunciou nesta sexta-feira (13) que o Banco Central aprovou a compra do Banco Porto Real de Investimentos. Com a aquisição, o banco digital terá licença bancária no Brasil, cumprindo a legislação que rege o uso da nomenclatura \"banco\" pelas instituições financeiras…",
+    "fonte_texto": "Folha",
     "cat": "economia",
-    "hora": "2026-11-13T21:00-03:00",
+    "hora": "2026-11-13T20:15-03:00",
     "fontes": [
      {
-      "nome": "Agência Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/anac-orienta-passageiros-consultar-aereas-sobre-voos-para-os-eua",
-      "paywall": false
+      "nome": "Folha",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bc-aprova-compra-de-banco-pelo-nubank-que-passara-a-ter-licenca-bancaria-no-brasil.shtml",
+      "paywall": true
      },
      {
-      "nome": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml",
-      "paywall": false
+      "nome": "Estadão",
+      "link": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
+      "paywall": true
      }
     ]
    },
@@ -201,40 +206,26 @@
     ]
    },
    {
-    "titulo": "Modelo de El Salvador: Bukele inicia ação militar no Haiti com bombas, cão-robô armado e 2.500 soldados; veja VÍDEO",
-    "trecho": "El Salvador usa cachorro-robô armado em operação no Haiti Tropas salvadorenhas bombardeiam a casa de um criminoso a partir de helicópteros sobre a zona rural do Haiti. Civis aplaudem soldados uniformizados com trajes de camuflagem que marcham pelo local. Veículos blindados…",
+    "titulo": "Em medida rara, EUA suspendem decolagens em todos os aeroportos do país após falha",
+    "trecho": "EUA suspendem decolagens em todos os aeroportos do país por motivos de segurança A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de todas as decolagens no país após uma falha de comunicação que atingiu…",
     "fonte_texto": "G1",
     "cat": "mundo",
-    "hora": "2026-11-13T17:35-03:00",
+    "hora": "2026-11-13T18:16-03:00",
     "fontes": [
      {
-      "nome": "DW Brasil",
-      "link": "https://www.dw.com/pt-br/por-que-el-salvador-tem-soldados-no-haiti/a-79944865?maca=bra-rss-br-all-1030-rdf",
-      "paywall": false
+      "nome": "Folha",
+      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-impoem-suspensao-nacional-de-voos-por-razoes-de-seguranca.shtml",
+      "paywall": true
      },
      {
       "nome": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/modelo-de-el-salvador-bukele-inicia-acao-militar-no-haiti-com-bombas-cachorro-robo-armado-e-2000-soldados.ghtml",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/eua-suspendem-decolagens-em-todos-os-aeroportos-do-pais-por-motivos-de-seguranca.ghtml",
       "paywall": false
      }
     ]
    }
   ],
   "tecnologia": [
-   {
-    "titulo": "Black November: Notebook ASUS Vivobook Go 15 despenca 46% na Amazon",
-    "trecho": "Modelo E1504FA-NJ732 traz como destaques o processador AMD Ryzen 5 e SSD de 512 GB uma das melhores relações custo-benefício. Oferta traz o menor preço dos últimos meses Black November: Notebook ASUS Vivobook Go 15 despenca 46% na Amazon",
-    "fonte_texto": "Tecnoblog",
-    "cat": "tecnologia",
-    "hora": "2026-11-13T19:35-03:00",
-    "fontes": [
-     {
-      "nome": "Tecnoblog",
-      "link": "https://tecnoblog.net/achados/black-november-notebook-asus-vivobook-go-15-despenca-46-na-amazon/",
-      "paywall": false
-     }
-    ]
-   },
    {
     "titulo": "Biometria facial contra deepfakes: o que avaliar em liveness, escala e privacidade",
     "trecho": "A biometria facial com prova de vida é uma das tecnologias utilizadas para verificar identidades e ajudar a prevenir fraudes em jornadas digitais. Divulgação Quando uma imagem não é suficiente Com o avanço da inteligência artificial, imagens e vídeos falsos ficaram mais…",
@@ -245,6 +236,20 @@
      {
       "nome": "G1",
       "link": "https://g1.globo.com/tecnologia/ciberseguranca/serasa/noticia/2026/11/13/biometria-facial-contra-deepfakes-o-que-avaliar-em-liveness-escala-e-privacidade.ghtml",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "titulo": "Euro-Office libera versões para Windows, Mac e Linux",
+    "trecho": "Pacotes da suíte de escritório Euro-Office para desktops chegam sob o nome Nextcloud Office. Euro-Office libera versões para Windows, Mac e Linux",
+    "fonte_texto": "Tecnoblog",
+    "cat": "tecnologia",
+    "hora": "2026-11-13T16:57-03:00",
+    "fontes": [
+     {
+      "nome": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/euro-office-libera-versoes-para-windows-mac-e-linux/",
       "paywall": false
      }
     ]
@@ -283,6 +288,30 @@
  },
  "acervo": [
   {
+   "titulo": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país",
+   "trecho": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração…",
+   "fonte_texto": "G1",
+   "cat": "mundo",
+   "hora": "2026-11-14T00:00-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/14/o-efeito-cascata-da-suspensao-de-voos-nos-eua-trens-sobrecarregados-brasil-impactado-e-horas-para-normalizar-fluxo.ghtml",
+     "paywall": false
+    },
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-encerram-suspensao-de-voos-apos-4-horas-de-paralisacao.shtml",
+     "paywall": true
+    },
+    {
+     "nome": "Estadão",
+     "link": "https://www.estadao.com.br/internacional/ao-vivo-suspensao-de-voos-nos-estados-unidos/",
+     "paywall": true
+    }
+   ]
+  },
+  {
    "titulo": "Toffoli dá 3 dias para campanha de Lula esclarecer inconsistências nas contas apontadas pelo TSE",
    "trecho": "O ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), deu prazo de três dias para a campanha à reeleição da chapa Lula-Alckmin apresentar esclarecimentos sobre inconsistências nas contas apontadas pela área técnica da Corte Eleitoral. Toffoli deu três dias para que a…",
    "fonte_texto": "G1",
@@ -307,21 +336,21 @@
    ]
   },
   {
-   "titulo": "Suspensão de voos nos EUA: veja FOTOS de aeroportos durante paralisação",
-   "trecho": "A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de todas as decolagens no país após um problema de comunicação que afeta os centros de controle de tráfego aéreo. 📱Favorite o g1 no Google e acompanhe as…",
+   "titulo": "FBI desmantela rede de hackers da Coreia do Norte; objetivo do golpe era financiar armas ilícitas no país",
+   "trecho": "O líder norte-coreano Kim Jong Un participa de uma exposição de tecnologia aeronáutica não tripulada e de uma demonstração de armamentos, nesta foto divulgada pela Agência Central de Notícias da Coreia do Norte (KCNA) em 30 de outubro de 2026. KCNA via Reuters O Departamento de…",
    "fonte_texto": "G1",
    "cat": "mundo",
-   "hora": "2026-11-14T00:00-03:00",
+   "hora": "2026-11-14T02:01-03:00",
    "fontes": [
     {
      "nome": "G1",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/14/o-efeito-cascata-da-suspensao-de-voos-nos-eua-trens-sobrecarregados-brasil-impactado-e-horas-para-normalizar-fluxo.ghtml",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/14/fbi-desmantela-rede-de-hackers-da-coreia-do-norte-objetivo-do-golpe-era-financiar-armas-ilicitas-no-pais.ghtml",
      "paywall": false
     },
     {
-     "nome": "Folha",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-encerram-suspensao-de-voos-apos-4-horas-de-paralisacao.shtml",
-     "paywall": true
+     "nome": "DW Brasil",
+     "link": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-rdf",
+     "paywall": false
     }
    ]
   },
@@ -340,25 +369,6 @@
     {
      "nome": "G1",
      "link": "https://g1.globo.com/politica/noticia/2026/11/13/carmen-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-quando-era-presidente.ghtml",
-     "paywall": false
-    }
-   ]
-  },
-  {
-   "titulo": "Paralisação de voos nos EUA: Anac diz monitorar situação e recomenda que passageiros procurem companhias aéreas",
-   "trecho": "Falha na comunicação causa suspensão de decolagens em todos os aeroportos dos EUA A Agência Nacional de Aviação Civil (Anac) informou que está monitorando a situação dos voos paralisados nos EUA e recomenda aos passageiros que busquem as companhias aéreas para verificar a…",
-   "fonte_texto": "G1",
-   "cat": "economia",
-   "hora": "2026-11-13T21:00-03:00",
-   "fontes": [
-    {
-     "nome": "Agência Brasil",
-     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/anac-orienta-passageiros-consultar-aereas-sobre-voos-para-os-eua",
-     "paywall": false
-    },
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml",
      "paywall": false
     }
    ]
@@ -383,6 +393,25 @@
    ]
   },
   {
+   "titulo": "BC aprova compra de banco pelo Nubank, que passará a ter licença bancária no Brasil",
+   "trecho": "O Nubank anunciou nesta sexta-feira (13) que o Banco Central aprovou a compra do Banco Porto Real de Investimentos. Com a aquisição, o banco digital terá licença bancária no Brasil, cumprindo a legislação que rege o uso da nomenclatura \"banco\" pelas instituições financeiras…",
+   "fonte_texto": "Folha",
+   "cat": "economia",
+   "hora": "2026-11-13T20:15-03:00",
+   "fontes": [
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bc-aprova-compra-de-banco-pelo-nubank-que-passara-a-ter-licenca-bancaria-no-brasil.shtml",
+     "paywall": true
+    },
+    {
+     "nome": "Estadão",
+     "link": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
+     "paywall": true
+    }
+   ]
+  },
+  {
    "titulo": "Governo não renova subsídio de R$ 1,40 ao diesel importado",
    "trecho": "Após um mês em vigor, a subvenção de R$ 1,40 por litro ao diesel importado não será renovada, informou na noite desta sexta-feira (13) o Ministério da Fazenda. O benefício chegou ao fim após o vencimento da Portaria 3.082 do Ministério da Fazenda , de 13 de outubro. A decisão…",
    "fonte_texto": "Agência Brasil",
@@ -398,6 +427,44 @@
      "nome": "Agência Brasil",
      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado",
      "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Em medida rara, EUA suspendem decolagens em todos os aeroportos do país após falha",
+   "trecho": "EUA suspendem decolagens em todos os aeroportos do país por motivos de segurança A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de todas as decolagens no país após uma falha de comunicação que atingiu…",
+   "fonte_texto": "G1",
+   "cat": "mundo",
+   "hora": "2026-11-13T18:16-03:00",
+   "fontes": [
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-impoem-suspensao-nacional-de-voos-por-razoes-de-seguranca.shtml",
+     "paywall": true
+    },
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/eua-suspendem-decolagens-em-todos-os-aeroportos-do-pais-por-motivos-de-seguranca.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
+   "trecho": "O ajuste fiscal não é incompatível com as promessas de campanha do quarto mandato de Luiz Inácio Lula da Silva (PT) , afirmou o banqueiro André Esteves, presidente do conselho e principal sócio do BTG Pactual , nesta sexta-feira (13). Leia mais (11/13/2026 - 14h21)",
+   "fonte_texto": "Folha",
+   "cat": "politica",
+   "hora": "2026-11-13T17:59-03:00",
+   "fontes": [
+    {
+     "nome": "Estadão",
+     "link": "https://www.estadao.com.br/politica/silvio-cascione/clareza-sobre-ajuste-fiscal-ajudara-a-sustentar-promessas-de-lula/",
+     "paywall": true
+    },
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
+     "paywall": true
     }
    ]
   },
@@ -478,6 +545,25 @@
    ]
   },
   {
+   "titulo": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
+   "trecho": "Presidente do BB fala na Globo news sobre inadimplência do agro Especialistas em crédito rural ouvidos pelo g1 afirmam que o aumento da inadimplência no agronegócio foi puxado principalmente por médios e grandes produtores do Centro-Oeste, como apontou o Banco do Brasil durante…",
+   "fonte_texto": "G1",
+   "cat": "economia",
+   "hora": "2026-11-13T15:30-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/quem-sao-os-produtores-inadimplentes-do-banco-do-brasil-especialistas-explicam-a-crise-no-agro.ghtml",
+     "paywall": false
+    },
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/banco-do-brasil-tem-31-mil-produtores-rurais-inadimplentes-diz-ceo.shtml",
+     "paywall": true
+    }
+   ]
+  },
+  {
    "titulo": "STJ decide que condomínio é responsável por furto se ladrões entrarem após falha na portaria",
    "trecho": "A Terceira Turma do Superior Tribunal de Justiça (STJ) decidiu, por unanimidade, que o condomínio deve indenizar os moradores por furto caso os ladrões consigam acessar os apartamentos após liberação na portaria, mesmo sem autorização dos condôminos. A decisão foi tomada em…",
    "fonte_texto": "G1",
@@ -497,20 +583,58 @@
    ]
   },
   {
-   "titulo": "'Leão XIV volta para casa': papa chega a Chiclayo, cidade em que viveu no Peru, e é recebido por milhares de fiéis",
-   "trecho": "Papa Leão XIV acena a moradores de Chiclayo, no Peru, em 13 de novembro de 2026. Pilar Olivares/ Reuters O papa Leão XIV retornou nesta sexta-feira (13) à sua antiga diocese de Chiclayo, no Peru, cidade em que viveu por mais de oito anos e com a qual já disse manter um forte…",
+   "titulo": "Presidente do BB diz que banco está aberto a negociar com produtores rurais",
+   "trecho": "A presidente do Banco do Brasil disse, nesta sexta-feira (13/11), que 31 mil produtores rurais estão inadimplentes e as portas estão abertas para uma renegociação. Tarciana Medeiros concedeu uma entrevista à Globo News, um dia depois da teleconferência em que detalhou os…",
+   "fonte_texto": "Globo Rural",
+   "cat": "economia",
+   "hora": "2026-11-13T14:07-03:00",
+   "fontes": [
+    {
+     "nome": "Globo Rural",
+     "link": "https://globorural.globo.com/credito-e-investimento/noticia/2026/11/presidente-do-bb-diz-que-banco-esta-aberto-a-negociar-com-produtores-rurais.ghtml",
+     "paywall": false
+    },
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/presidente-do-bb-explica-quem-sao-os-produtores-que-nao-aderiram-a-renegociacao-do-banco.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Terremoto atinge a costa do Peru durante visita do papa Leão XIV",
+   "trecho": "Em azul, a região atingida pelo terremoto de magnitude 5,6 Reprodução/USGC Um terremoto de magnitude 5,6 atingiu nesta sexta-feira (13) a costa do Peru. O tremor ocorreu no mar, perto da província de Nazca, no sul do país, a cerca de 79 km da cidade de Changuillo. De acordo com…",
    "fonte_texto": "G1",
    "cat": "mundo",
-   "hora": "2026-11-13T12:30-03:00",
+   "hora": "2026-11-13T13:56-03:00",
    "fontes": [
     {
      "nome": "G1",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/papa-chega-a-chiclayo-cidade-em-que-viveu-no-peru.ghtml",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/terremoto-atinge-a-costa-do-peru-durante-visita-do-papa-leao-xiv.ghtml",
      "paywall": false
     },
     {
      "nome": "RFI Brasil",
      "link": "https://www.rfi.fr/br/am%C3%A9ricas/20261113-cidade-de-chiclayo-no-peru-se-prepara-para-reencontro-com-papa-le%C3%A3o-xiv",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "STF tem 4 votos para manter início da escala 5x2 em 16 de dezembro",
+   "trecho": "Os ministros Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes do Supremo Tribunal Federal (STF), acompanharam nesta sexta-feira (13) o voto do relator, Flávio Dino, para confirmar as regras definidas pelo ministro para a transição da escala 6x1 para a 5x2. Com isso, o placar…",
+   "fonte_texto": "G1",
+   "cat": "economia",
+   "hora": "2026-11-13T13:32-03:00",
+   "fontes": [
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moraes-acompanha-dino-e-vota-pelo-fim-da-escala-6x1-em-julgamento-no-stf.shtml",
+     "paywall": true
+    },
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/politica/noticia/2026/11/13/plenario-virtual-do-stf-comeca-a-analisar-regras-da-escala-5x2-placar-esta-em-2-a-0.ghtml",
      "paywall": false
     }
    ]
@@ -946,20 +1070,6 @@
    ]
   },
   {
-   "titulo": "FBI desmantela rede de hackers da Coreia do Norte; objetivo do golpe era financiar armas ilícitas no país",
-   "trecho": "O líder norte-coreano Kim Jong Un participa de uma exposição de tecnologia aeronáutica não tripulada e de uma demonstração de armamentos, nesta foto divulgada pela Agência Central de Notícias da Coreia do Norte (KCNA) em 30 de outubro de 2026. KCNA via Reuters O Departamento de…",
-   "fonte_texto": "G1",
-   "cat": "mundo",
-   "hora": "2026-11-14T02:01-03:00",
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/14/fbi-desmantela-rede-de-hackers-da-coreia-do-norte-objetivo-do-golpe-era-financiar-armas-ilicitas-no-pais.ghtml",
-     "paywall": false
-    }
-   ]
-  },
-  {
    "titulo": "Ex-manicure começou vendendo caldinhos na rua e hoje fatura R$ 40 mil por mês",
    "trecho": "Do caldinho na calçada ao buffet dos grandes eventos do samba O que começou como uma tentativa de aumentar a renda para sustentar duas filhas virou um negócio consolidado no setor de alimentação. No Rio de Janeiro, Bárbara dos Santos, conhecida como \"Nega\", transformou uma…",
    "fonte_texto": "G1",
@@ -1338,20 +1448,6 @@
    ]
   },
   {
-   "titulo": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país",
-   "trecho": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração…",
-   "fonte_texto": "G1",
-   "cat": "mundo",
-   "hora": "2026-11-13T22:25-03:00",
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/mundo/ao-vivo/paralisacao-de-voos-nos-eua.ghtml",
-     "paywall": false
-    }
-   ]
-  },
-  {
    "titulo": "Trump, Xi e Putin vão se reunir na China na próxima quinta (19), diz Casa Branca",
    "trecho": "A Casa Branca anunciou nesta sexta-feira (13) que o presidente dos Estados Unidos , Donald Trump , o presidente da Rússia , Vladimir Putin , e o líder da China , Xi Jinping , realizarão na próxima semana uma rara reunião trilateral, à margem da cúpula da Cooperação Econômica…",
    "fonte_texto": "Folha",
@@ -1436,34 +1532,6 @@
    ]
   },
   {
-   "titulo": "Vídeo mostra tráfego aéreo dos EUA caindo em tempo real após suspensão; veja",
-   "trecho": "A agência de aviação civil dos Estados Unidos , a FAA, suspendeu todos os voos do país nesta sexta-feira (13), citando um problema de comunicação que paralisou o tráfego aéreo do país, cancelando milhares de voos e afetando milhões de passageiros. Leia mais (11/13/2026 - 21h52)",
-   "fonte_texto": "Folha",
-   "cat": "mundo",
-   "hora": "2026-11-13T21:52-03:00",
-   "fontes": [
-    {
-     "nome": "Folha",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/video-mostra-trafego-aereo-dos-eua-caindo-em-tempo-real-apos-suspensao-veja.shtml",
-     "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "Grupo de cinco engenheiros de IA fica retido em aeroporto nos EUA após suspensão de voos: 'Filas grandes e clima de tensão'",
-   "trecho": "Grupo de cinco engenheiros de IA fica retido em aeroporto nos EUA após suspensão de voos David Mannoel/Arquivo Pessoal Um grupo de brasileiros está retido no aeroporto de Cincinnati, em Ohio, nos Estados Unidos, sem saber quando conseguirá voltar ao Brasil após ser afetado pela…",
-   "fonte_texto": "G1",
-   "cat": "mundo",
-   "hora": "2026-11-13T21:30-03:00",
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/grupo-de-cinco-engenheiros-de-ia-fica-retido-em-aeroporto-nos-eua-apos-suspensao-de-voos-filas-grandes-e-clima-de-tensao.ghtml",
-     "paywall": false
-    }
-   ]
-  },
-  {
    "titulo": "Trump diz que paralisação aérea não parece ter relação com ataque cibernético ou com IA",
    "trecho": "O presidente dos EUA, Donald Trump , discursa após assinar uma proclamação sobre o \"Estabelecimento do Monumento Nacional do Salão Oval\", na Casa Branca, em Washington, DC, EUA, em 5 de novembro de 2026 REUTERS/Elizabeth Frantz O presidente dos Estados Unidos, Donald Trump…",
    "fonte_texto": "G1",
@@ -1473,20 +1541,6 @@
     {
      "nome": "G1",
      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/trump-diz-que-paralisacao-aerea-nao-parece-ter-relacao-com-ataque-cibernetico.ghtml",
-     "paywall": false
-    }
-   ]
-  },
-  {
-   "titulo": "FAB monitora suspensão de voos nos EUA e avalia ajustes no fluxo aéreo no Brasil",
-   "trecho": "EUA suspendem todas as decolagens de aviões e paralisação impacta milhares de voos no mundo inteiro A Força Aérea Brasileira afirmou em nota nesta sexta-feira (13) que monitora os impactos no Brasil da suspensão dos voos em todo o espaço aéreo dos Estados Unidos. Segundo a…",
-   "fonte_texto": "G1",
-   "cat": "mundo",
-   "hora": "2026-11-13T21:20-03:00",
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/13/fab-monitora-suspensao-de-voos-nos-eua-e-avalia-ajustes-no-fluxo-aereo-no-brasil.ghtml",
      "paywall": false
     }
    ]
@@ -1562,6 +1616,20 @@
    ]
   },
   {
+   "titulo": "Anac orienta passageiros a consultar aéreas sobre voos para os EUA",
+   "trecho": "A Agência Nacional de Aviação Civil (Anac) orienta os passageiros com viagens marcadas para os Estados Unidos que busquem as companhias aéreas para verificar a situação do voo ou eventuais alterações. Mais cedo, a Administração Federal de Aviação dos Estados Unidos (FAA)…",
+   "fonte_texto": "Agência Brasil",
+   "cat": "economia",
+   "hora": "2026-11-13T21:00-03:00",
+   "fontes": [
+    {
+     "nome": "Agência Brasil",
+     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/anac-orienta-passageiros-consultar-aereas-sobre-voos-para-os-eua",
+     "paywall": false
+    }
+   ]
+  },
+  {
    "titulo": "Semana Internacional do Café promove mais de 300 agendas de negócios internacionais",
    "trecho": "A 14ª edição da Semana Internacional do Café (SIC 2026) terminou nesta sexta-feira (13/11), em Belo Horizonte, alcançando as metas de visitantes e negócios gerados, de acordo com a Espresso&Co, realizadora do evento. Durante três dias, o evento atraiu mais de 27 mil visitantes…",
    "fonte_texto": "Globo Rural",
@@ -1586,20 +1654,6 @@
      "nome": "Folha",
      "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/europa-suspende-voos-para-os-eua-apos-interrupcao-de-decolagens.shtml",
      "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "EUA expandiram ferramenta de IA para controle de voos dias antes de paralisação total nos aeroportos",
-   "trecho": "ASI diz que suspensão de voos não se baseia no sistema da empresa A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) expandiu o uso de inteligência artificial (IA) para todos os centros de controle aéreo do país dias antes da paralisação total que…",
-   "fonte_texto": "G1",
-   "cat": "mundo",
-   "hora": "2026-11-13T20:37-03:00",
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/estados-unidos-ferramenta-inteligencia-artificial-controle-aereo-paralisacao-aeroportos.ghtml",
-     "paywall": false
     }
    ]
   },
@@ -1660,20 +1714,6 @@
    ]
   },
   {
-   "titulo": "BC aprova compra de banco pelo Nubank, que passará a ter licença bancária no Brasil",
-   "trecho": "O Nubank anunciou nesta sexta-feira (13) que o Banco Central aprovou a compra do Banco Porto Real de Investimentos. Com a aquisição, o banco digital terá licença bancária no Brasil, cumprindo a legislação que rege o uso da nomenclatura \"banco\" pelas instituições financeiras…",
-   "fonte_texto": "Folha",
-   "cat": "economia",
-   "hora": "2026-11-13T20:15-03:00",
-   "fontes": [
-    {
-     "nome": "Folha",
-     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bc-aprova-compra-de-banco-pelo-nubank-que-passara-a-ter-licenca-bancaria-no-brasil.shtml",
-     "paywall": true
-    }
-   ]
-  },
-  {
    "titulo": "Vozes do Agro: evento sobre os desafios do agro goiano é destaque no Bom Dia GO",
    "trecho": "Realizado pela segunda vez em Goiânia, o Vozes do Agro foi destaque no Bom Dia GO, telejornal local exibido pela TV Anhanguera, afiliada da Rede Globo no Estado. A reportagem resumiu as discussões do evento, que reuniu empresários, produtores rurais, autoridades e lideranças do…",
    "fonte_texto": "Globo Rural",
@@ -1698,20 +1738,6 @@
      "nome": "Agência Brasil",
      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-cancelara-dividas-de-meis-vencidas-ate-esta-sexta-feira",
      "paywall": false
-    }
-   ]
-  },
-  {
-   "titulo": "Nubank recebe aval do BC para comprar Banco Porto Real e, assim, obter licença bancária no Brasil",
-   "trecho": "",
-   "fonte_texto": "Estadão",
-   "cat": "economia",
-   "hora": "2026-11-13T20:06-03:00",
-   "fontes": [
-    {
-     "nome": "Estadão",
-     "link": "https://www.estadao.com.br/economia/negocios/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-assim-obter-licenca-bancaria-no-brasil/",
-     "paywall": true
     }
    ]
   },
@@ -1814,34 +1840,6 @@
    ]
   },
   {
-   "titulo": "Após mais de 4 horas, suspensão de decolagens nos EUA chega ao fim; acompanhe",
-   "trecho": "",
-   "fonte_texto": "Estadão",
-   "cat": "mundo",
-   "hora": "2026-11-13T19:37-03:00",
-   "fontes": [
-    {
-     "nome": "Estadão",
-     "link": "https://www.estadao.com.br/internacional/ao-vivo-suspensao-de-voos-nos-estados-unidos/",
-     "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "Black November: Notebook ASUS Vivobook Go 15 despenca 46% na Amazon",
-   "trecho": "Modelo E1504FA-NJ732 traz como destaques o processador AMD Ryzen 5 e SSD de 512 GB uma das melhores relações custo-benefício. Oferta traz o menor preço dos últimos meses Black November: Notebook ASUS Vivobook Go 15 despenca 46% na Amazon",
-   "fonte_texto": "Tecnoblog",
-   "cat": "tecnologia",
-   "hora": "2026-11-13T19:35-03:00",
-   "fontes": [
-    {
-     "nome": "Tecnoblog",
-     "link": "https://tecnoblog.net/achados/black-november-notebook-asus-vivobook-go-15-despenca-46-na-amazon/",
-     "paywall": false
-    }
-   ]
-  },
-  {
    "titulo": "Tesouro prevê normalizar sistemas fora do ar até segunda-feira",
    "trecho": "A Secretaria do Tesouro Nacional informou que prevê restabelecer até a manhã de segunda-feira (16) os sistemas e serviços temporariamente indisponíveis após o incidente de segurança informado na quinta-feira (12) à noite. A interrupção afeta ferramentas de consulta e acesso a…",
    "fonte_texto": "Agência Brasil",
@@ -1865,20 +1863,6 @@
     {
      "nome": "Estadão",
      "link": "https://www.estadao.com.br/economia/projeto-fiscal-setor-produtivo-ainda-vai-tentar-barrar-limite-a-compensacoes-tributarias-no-senado/",
-     "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "Falha de comunicação suspende voos nos EUA; entenda como funciona o controle aéreo",
-   "trecho": "Uma falha de comunicação nos centros de controle de tráfego aéreo dos Estados Unidos levou a FAA (Administração Federal de Aviação dos EUA) a suspender todas as decolagens no país nesta sexta-feira (13). A agência ainda não informou qual equipamento ou sistema deixou de…",
-   "fonte_texto": "Folha",
-   "cat": "economia",
-   "hora": "2026-11-13T19:25-03:00",
-   "fontes": [
-    {
-     "nome": "Folha",
-     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/falha-de-comunicacao-suspende-voos-nos-eua-entenda-como-funciona-o-controle-aereo.shtml",
      "paywall": true
     }
    ]
@@ -1908,20 +1892,6 @@
      "nome": "Estadão",
      "link": "https://www.estadao.com.br/politica/nunes-diz-que-mello-araujo-se-antecipou-em-denuncia-ao-mp-sobre-virada-esportiva-de-sao-paulo-nprp/",
      "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "VÍDEO mostra momento em que piloto comunica os passageiros sobre a paralisação de voos nos EUA: 'Algo está acontecendo'",
-   "trecho": "Piloto comunica passageiros sobre a suspensão de decolagens nos EUA Um vídeo gravado por passageiros nesta sexta-feira (13) mostra o momento em que piloto comunica a quem está a bordo sobre a paralisação dos voos nos Estados Unidos. Todos os aeroportos do país estão com…",
-   "fonte_texto": "G1",
-   "cat": "mundo",
-   "hora": "2026-11-13T19:05-03:00",
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/video-piloto-comunica-passageiros-paralisacao-voos-eua.ghtml",
-     "paywall": false
     }
    ]
   },
@@ -2010,20 +1980,6 @@
    ]
   },
   {
-   "titulo": "EUA suspendem todos os voos no país; governo Trump aponta falha de comunicação como causa",
-   "trecho": "A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de decolagens em todos os aeroportos do país. Pousos estão permitidos, e não há previsão de normalização do fluxo aéreo. Leia mais (11/13/2026 - 18h16)",
-   "fonte_texto": "Folha",
-   "cat": "mundo",
-   "hora": "2026-11-13T18:16-03:00",
-   "fontes": [
-    {
-     "nome": "Folha",
-     "link": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eua-impoem-suspensao-nacional-de-voos-por-razoes-de-seguranca.shtml",
-     "paywall": true
-    }
-   ]
-  },
-  {
    "titulo": "Falha da Microsoft expõe dependência global de big techs",
    "trecho": "Governos, empresas e serviços públicos em mais de 70 países foram afetados por uma interrupção digital nesta semana, enquanto a Microsoft tentava restabelecer os serviços após uma falha que atingiu milhões de usuários. Leia mais (11/13/2026 - 18h15)",
    "fonte_texto": "Folha",
@@ -2034,20 +1990,6 @@
      "nome": "Folha",
      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/11/falha-da-microsoft-expoe-dependencia-global-de-big-techs.shtml",
      "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "Soundbar JBL para amplificar o som tem desconto com cupom de Black Friday",
-   "trecho": "JBL SB180 tem potência de 110 W RMS, saída HDMI ARC e três modos de som. Soundbar de custo-benefício para melhorar o som da TV está com 47% OFF no Mercado Livre Soundbar JBL para amplificar o som tem desconto com cupom de Black Friday",
-   "fonte_texto": "Tecnoblog",
-   "cat": "tecnologia",
-   "hora": "2026-11-13T18:14-03:00",
-   "fontes": [
-    {
-     "nome": "Tecnoblog",
-     "link": "https://tecnoblog.net/achados/soundbar-jbl-para-amplificar-o-som-tem-desconto-com-cupom-de-black-friday/",
-     "paywall": false
     }
    ]
   },
@@ -2076,20 +2018,6 @@
      "nome": "Folha",
      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-e-senado-pedem-que-plenario-do-stf-rejeite-pontos-da-liminar-de-dino-sobre-escala-6x1.shtml",
      "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "Em medida rara, EUA suspendem decolagens em todos os aeroportos do país após falha",
-   "trecho": "EUA suspendem decolagens em todos os aeroportos do país por motivos de segurança A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão de todas as decolagens no país após uma falha de comunicação que atingiu…",
-   "fonte_texto": "G1",
-   "cat": "mundo",
-   "hora": "2026-11-13T18:02-03:00",
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/eua-suspendem-decolagens-em-todos-os-aeroportos-do-pais-por-motivos-de-seguranca.ghtml",
-     "paywall": false
     }
    ]
   },
@@ -2145,20 +2073,6 @@
     {
      "nome": "Estadão",
      "link": "https://www.estadao.com.br/economia/varejo-troca-mais-de-20-das-equipes-em-metade-das-empresas-e-enfrenta-falta-de-mao-de-obra/",
-     "paywall": true
-    }
-   ]
-  },
-  {
-   "titulo": "Clareza sobre ajuste fiscal ajudará a sustentar promessas de Lula",
-   "trecho": "",
-   "fonte_texto": "Estadão",
-   "cat": "politica",
-   "hora": "2026-11-13T17:59-03:00",
-   "fontes": [
-    {
-     "nome": "Estadão",
-     "link": "https://www.estadao.com.br/politica/silvio-cascione/clareza-sobre-ajuste-fiscal-ajudara-a-sustentar-promessas-de-lula/",
      "paywall": true
     }
    ]
@@ -2808,20 +2722,6 @@
    ]
   },
   {
-   "titulo": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
-   "trecho": "Presidente do BB fala na Globo news sobre inadimplência do agro Especialistas em crédito rural ouvidos pelo g1 afirmam que o aumento da inadimplência no agronegócio foi puxado principalmente por médios e grandes produtores do Centro-Oeste, como apontou o Banco do Brasil durante…",
-   "fonte_texto": "G1",
-   "cat": "economia",
-   "hora": "2026-11-13T15:30-03:00",
-   "fontes": [
-    {
-     "nome": "G1",
-     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/quem-sao-os-produtores-inadimplentes-do-banco-do-brasil-especialistas-explicam-a-crise-no-agro.ghtml",
-     "paywall": false
-    }
-   ]
-  },
-  {
    "titulo": "O quão próximas são as ligações da AfD com movimentos neonazistas?",
    "trecho": "Sigla de ultradireita tem crescido nas pesquisas eleitorais, reacendendo o debate sobre o passado de alguns de seus integrantes em organizações neonazistas e movimentos etnonacionalistas.",
    "fonte_texto": "DW Brasil",
@@ -3032,20 +2932,6 @@
    ]
   },
   {
-   "titulo": "Ajuste fiscal não é incompatível com promessas do governo Lula 4, diz André Esteves",
-   "trecho": "O ajuste fiscal não é incompatível com as promessas de campanha do quarto mandato de Luiz Inácio Lula da Silva (PT) , afirmou o banqueiro André Esteves, presidente do conselho e principal sócio do BTG Pactual , nesta sexta-feira (13). Leia mais (11/13/2026 - 14h21)",
-   "fonte_texto": "Folha",
-   "cat": "economia",
-   "hora": "2026-11-13T14:21-03:00",
-   "fontes": [
-    {
-     "nome": "Folha",
-     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-nao-e-incompativel-com-promessas-do-governo-lula-4-diz-andre-esteves.shtml",
-     "paywall": true
-    }
-   ]
-  },
-  {
    "titulo": "Lesões no tornozelo são mais comuns do que você imagina — veja como proteger o seu",
    "trecho": "A fisioterapeuta especializada em desempenho físico Genevieve Tawiah dá suas principais dicas para cuidar dos tornozelos",
    "fonte_texto": "BBC News Brasil",
@@ -3130,20 +3016,6 @@
    ]
   },
   {
-   "titulo": "Presidente do BB diz que banco está aberto a negociar com produtores rurais",
-   "trecho": "A presidente do Banco do Brasil disse, nesta sexta-feira (13/11), que 31 mil produtores rurais estão inadimplentes e as portas estão abertas para uma renegociação. Tarciana Medeiros concedeu uma entrevista à Globo News, um dia depois da teleconferência em que detalhou os…",
-   "fonte_texto": "Globo Rural",
-   "cat": "agro",
-   "hora": "2026-11-13T14:07-03:00",
-   "fontes": [
-    {
-     "nome": "Globo Rural",
-     "link": "https://globorural.globo.com/credito-e-investimento/noticia/2026/11/presidente-do-bb-diz-que-banco-esta-aberto-a-negociar-com-produtores-rurais.ghtml",
-     "paywall": false
-    }
-   ]
-  },
-  {
    "titulo": "VÍDEO: Na Alemanha, alpacas 'invadem' casa de repouso e alegram idosos",
    "trecho": "Alpacas 'invadem' casa de repouso e alegram o dia de idosos na Alemanha Em Berlim, na Alemanha, um lar de idosos possui residentes muito especiais. As alpacas fazem parte da Mana Residence há 12 anos e têm livre acesso a toda a propriedade e aos quartos dos residentes. Para a…",
    "fonte_texto": "G1",
@@ -3153,6 +3025,174 @@
     {
      "nome": "G1",
      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/alpacas-alemanha-idosos.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Braskem vê margens menores em 2027 e 'segue engajada' em acordo com credores, diz diretoria",
+   "trecho": "Após divulgar prejuízo de R$ 1,1 bilhão no terceiro trimestre, a diretoria da Braskem afirmou nesta sexta-feira (13) que o cenário de margens elevadas na petroquímica impulsionado pela guerra no Irã já passou, e que 2027 deve ser pior do que a média histórica do setor. Leia mais…",
+   "fonte_texto": "Folha",
+   "cat": "economia",
+   "hora": "2026-11-13T13:45-03:00",
+   "fontes": [
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/braskem-ve-margens-menores-em-2027-e-segue-engajada-em-acordo-com-credores-diz-diretoria.shtml",
+     "paywall": true
+    }
+   ]
+  },
+  {
+   "titulo": "Beber leite direto da vaca faz mal? Saiba quais são os riscos à saúde",
+   "trecho": "Muito provavelmente, você já viu algum personagem de filme, série ou desenho tomando leite direto da vaca. Ou talvez já tenha recebido um copo de leite recém-ordenhado durante uma visita ao campo. Apesar de fazer parte do imaginário rural e despertar memórias afetivas, o hábito…",
+   "fonte_texto": "Globo Rural",
+   "cat": "agro",
+   "hora": "2026-11-13T13:43-03:00",
+   "fontes": [
+    {
+     "nome": "Globo Rural",
+     "link": "https://globorural.globo.com/pecuaria/leite/noticia/2026/11/beber-leite-direto-da-vaca-faz-mal-saiba-quais-sao-os-riscos-a-saude.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
+   "trecho": "A Câmara dos Deputados se manifestou ao Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2. Em manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário não confirme alguns…",
+   "fonte_texto": "G1",
+   "cat": "politica",
+   "hora": "2026-11-13T13:42-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Gilmar diz que trocas de delegados ocorrem todo dia e endossa fala de Lula para atacar Lava Jato",
+   "trecho": "O ministro Gilmar Mendes , do STF (Supremo Tribunal Federal), afirmou nesta sexta-feira (13) que substituições de delegados fazem parte da rotina. A fala ocorre em meio ao desgaste do diretor-geral da Polícia Federal , Andrei Rodrigues , após o afastamento de delegados do caso…",
+   "fonte_texto": "Folha",
+   "cat": "politica",
+   "hora": "2026-11-13T13:37-03:00",
+   "fontes": [
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gilmar-diz-que-trocas-de-delegados-ocorrem-todo-dia-e-endossa-fala-de-lula-para-atacar-lava-jato.shtml",
+     "paywall": true
+    }
+   ]
+  },
+  {
+   "titulo": "Em Chiclayo, papa diz que está 'superando' seus problemas de saúde",
+   "trecho": "Papa Leão XIV acena a moradores de Chiclayo, no Peru, em 13 de novembro de 2026. Pilar Olivares/ Reuters O papa Leão XIV afirmou nesta sexta-feira (13) que está \"superando\" seus problemas de saúde, após ter sido submetido a uma cirurgia para a retirada de um tumor no pulmão. ✅…",
+   "fonte_texto": "G1",
+   "cat": "mundo",
+   "hora": "2026-11-13T13:33-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/em-chiclayo-papa-diz-que-esta-superando-seus-problemas-de-saude.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Binance diz ter coberto prejuízo de R$ 34 bilhões após maior roubo da história das criptomoedas",
+   "trecho": "Logotipo da Binance. Dado Ruvic/Reuters A Binance, maior corretora de criptomoedas do mundo, afirmou nesta sexta-feira (13) que concluiu a reposição dos ativos afetados pelo ataque hacker que desviou US$ 6,3 bilhões (cerca de R$ 34 bilhões) da plataforma. \"Obrigado pela…",
+   "fonte_texto": "G1",
+   "cat": "economia",
+   "hora": "2026-11-13T13:31-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/binance-criptomoeda-roubo.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
+   "trecho": "Presidente do BB fala sobre crise com o agro A forte queda das ações do Banco do Brasil na quinta-feira (12) refletiu a reação negativa do mercado aos resultados do terceiro trimestre de 2026, divulgados na véspera. Os papéis recuaram 8,35% no Ibovespa, principal índice da bolsa…",
+   "fonte_texto": "G1",
+   "cat": "economia",
+   "hora": "2026-11-13T13:15-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Paris Photo: galerias do Brasil se reúnem na capital francesa para mostrar facetas diversas da Amazônia",
+   "trecho": "A celebração dos 200 anos da fotografia continua sendo festejada, agora na Paris Photo, considerada a principal feira internacional dedicada à fotografia, que acontece no Grand Palais, na capital francesa, até o domingo (15). O evento reúne 246 expositores de 38 países, entre…",
+   "fonte_texto": "RFI Brasil",
+   "cat": "mundo",
+   "hora": "2026-11-13T13:13-03:00",
+   "fontes": [
+    {
+     "nome": "RFI Brasil",
+     "link": "https://www.rfi.fr/br/podcasts/rendez-vous-cultural/20261113-paris-photo-galerias-do-brasil-se-re%C3%BAnem-na-capital-francesa-para-mostrar-facetas-diversas-da-amaz%C3%B4nia",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Após bancos privados, Caixa faz as contas para subir taxa de juros do crédito imobiliário",
+   "trecho": "A Caixa Econômica Federal faz cálculos para definir se e quando elevará os juros do financiamento imobiliário, diante do aumento do custo de captação de recursos e da disparada das taxas no mercado financeiro. O banco avalia quanto consegue absorver da alta sem comprometer a…",
+   "fonte_texto": "Folha",
+   "cat": "economia",
+   "hora": "2026-11-13T13:09-03:00",
+   "fontes": [
+    {
+     "nome": "Folha",
+     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario.shtml",
+     "paywall": true
+    }
+   ]
+  },
+  {
+   "titulo": "Especialistas explicam por que o sarampo voltou a avançar nos EUA em meio à crise da vacinação",
+   "trecho": "Com mais de 5.100 casos em 2026, os Estados Unidos correm o risco de perder o status de país que eliminou o sarampo há 26 anos. Em entrevista à RFI, dois epidemiologistas brasileiros analisam as causas do retrocesso, o impacto da desinformação e as estratégias necessárias para…",
+   "fonte_texto": "RFI Brasil",
+   "cat": "mundo",
+   "hora": "2026-11-13T13:05-03:00",
+   "fontes": [
+    {
+     "nome": "RFI Brasil",
+     "link": "https://www.rfi.fr/br/podcasts/reportagem/20261113-especialistas-explicam-por-que-o-sarampo-voltou-a-avan%C3%A7ar-nos-eua-em-meio-%C3%A0-crise-da-vacina%C3%A7%C3%A3o",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "VÍDEO: Papa Leão XIV se confunde nos idiomas e ri ao cumprimentar fiéis em italiano no Peru",
+   "trecho": "Papa Leão XIV se confunde nos idiomas e ri ao rezar missa em italiano no Peru; veja O Papa Leão XIV compartilhou um momento descontraído com os fiéis nesta sexta-feira (13). Durante uma aparição em Lima, em meio a sua visita à América Latina, o pontífice cumprimentou os fiéis…",
+   "fonte_texto": "G1",
+   "cat": "mundo",
+   "hora": "2026-11-13T13:03-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/13/papa-leao-espanhol-italiano-peru.ghtml",
+     "paywall": false
+    }
+   ]
+  },
+  {
+   "titulo": "Xbox amplia retrocompatibilidade com mais 21 jogos antigos no PC",
+   "trecho": "Clássicos de Star Wars e Morrowind estão entre as novidades. Três títulos não foram liberados no Brasil. Xbox amplia retrocompatibilidade com mais 21 jogos antigos no PC",
+   "fonte_texto": "Tecnoblog",
+   "cat": "tecnologia",
+   "hora": "2026-11-13T13:02-03:00",
+   "fontes": [
+    {
+     "nome": "Tecnoblog",
+     "link": "https://tecnoblog.net/noticias/xbox-amplia-retrocompatibilidade-com-mais-21-jogos-antigos-no-pc/",
      "paywall": false
     }
    ]
@@ -3179,5 +3219,5 @@
   "Valor Econômico",
   "ge"
  ],
- "total_noticias_lidas": 371
+ "total_noticias_lidas": 367
 }
