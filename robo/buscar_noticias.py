@@ -154,6 +154,8 @@ def coletar(fontes, inicio, fim):
                 continue
             vistos.add(link)
             trecho = limpar_texto(e.get("summary") or e.get("description"))
+            if trecho.startswith(titulo):  # alguns feeds repetem o título no trecho
+                trecho = trecho[len(titulo):].lstrip(" .:-–—")
             if normalizar(trecho).strip() == normalizar(titulo).strip():
                 trecho = ""
             noticias.append({
