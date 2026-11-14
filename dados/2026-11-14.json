@@ -1,6 +1,6 @@
 {
  "edicao": "2026-11-14",
- "gerado_em": "2026-11-14T19:00-03:00",
+ "gerado_em": "2026-11-14T19:02-03:00",
  "janela": {
   "inicio": "2026-11-13T06:00-03:00",
   "fim": "2026-11-14T06:00-03:00"
@@ -8,7 +8,7 @@
  "tres_do_dia": [
   {
    "titulo": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país",
-   "trecho": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração…",
+   "trecho": "Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira…",
    "fonte_texto": "G1",
    "cat": "mundo",
    "hora": "2026-11-14T00:00-03:00",
@@ -289,7 +289,7 @@
  "acervo": [
   {
    "titulo": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país",
-   "trecho": "Caos aéreo nos EUA: após 4 horas, agência de aviação encerra suspensão de decolagens no país Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração…",
+   "trecho": "Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira…",
    "fonte_texto": "G1",
    "cat": "mundo",
    "hora": "2026-11-14T00:00-03:00",
@@ -470,7 +470,7 @@
   },
   {
    "titulo": "Fachin defende indicação de uma mulher negra para o STF",
-   "trecho": "Fachin defende indicação de uma mulher negra para o STF O presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no encerramento do 9º…",
+   "trecho": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no encerramento do 9º Encontro Nacional de Juízas e Juízes Negros (Enajun)…",
    "fonte_texto": "G1",
    "cat": "politica",
    "hora": "2026-11-13T17:44-03:00",
@@ -916,20 +916,6 @@
    ]
   },
   {
-   "titulo": "Min Jin Lee, de 'Pachinko', critica meritocracia em nova saga de imigração coreana",
-   "trecho": "O romance \"Hagwon Americana\" é sobre coreanos que imigram para a Califórnia e levam junto um pedaço de seu país. Esse pedaço, como o título sugere, são as \"hagwons\", escolas privadas de alto nível -e muitas vezes caríssimas- especializadas em aulas de reforço. No sistema…",
-   "fonte_texto": "Folha",
-   "cat": "brasil",
-   "hora": "2026-11-14T04:00-03:00",
-   "fontes": [
-    {
-     "nome": "Folha",
-     "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/min-jin-lee-de-pachinko-critica-meritocracia-em-nova-saga-de-imigracao-coreana.shtml",
-     "paywall": true
-    }
-   ]
-  },
-  {
    "titulo": "Raquel Lyra exonera comissionados do PL e se aproxima de aliados de Lula após eleições",
    "trecho": "A governadora reeleita de Pernambuco , Raquel Lyra ( PSD ), reuniu-se nesta semana com os senadores eleitos Humberto Costa (PT) e Marília Arraes (PDT), da base de Lula (PT), o que tem sido interpretado como um movimento de aproximação com o governo federal. Leia mais (11/14/2026…",
    "fonte_texto": "Folha",
@@ -1113,7 +1099,7 @@
   },
   {
    "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula",
-   "trecho": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula Jornal Nacional/ Reprodução No início do terceiro mandato do presidente Luiz Inácio Lula da Silva, em 2023, o mercado financeiro projetava que a taxa básica de juros cairia para um…",
+   "trecho": "Jornal Nacional/ Reprodução No início do terceiro mandato do presidente Luiz Inácio Lula da Silva, em 2023, o mercado financeiro projetava que a taxa básica de juros cairia para um dígito, abaixo de 10% ao ano, já em 2024. Quase quatro anos depois, essa expectativa ficou mais…",
    "fonte_texto": "G1",
    "cat": "politica",
    "hora": "2026-11-14T00:00-03:00",
@@ -1743,7 +1729,7 @@
   },
   {
    "titulo": "SpaceX lança 15ª missão do foguete Starship",
-   "trecho": "SpaceX lança 15ª missão do foguete Starship Empresa de Elon Musk aguarda testes no espaço antes de iniciar protocolo de manobra inédita: recuperar nave e propulsor após lançamento. Satélites da Starlink também serão colocados em órbita. A SpaceX prepara para sexta-feira (13) um…",
+   "trecho": "Empresa de Elon Musk aguarda testes no espaço antes de iniciar protocolo de manobra inédita: recuperar nave e propulsor após lançamento. Satélites da Starlink também serão colocados em órbita. A SpaceX prepara para sexta-feira (13) um novo teste da Starship, considerada o maior…",
    "fonte_texto": "G1",
    "cat": "mundo",
    "hora": "2026-11-13T20:03-03:00",
@@ -3196,6 +3182,20 @@
      "paywall": false
     }
    ]
+  },
+  {
+   "titulo": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
+   "trecho": "Como abrir o Microsoft Teams, Excel, Outlook (e até o LinkedIn) no teclado do Windows Unsplash/Hal Gatewood O serviço de e-mail Outlook começou a ser restabelecido após uma interrupção que já dura mais de 20 horas, mas alguns usuários ainda podem ter dificuldades para acessar…",
+   "fonte_texto": "G1",
+   "cat": "economia",
+   "hora": "2026-11-13T12:57-03:00",
+   "fontes": [
+    {
+     "nome": "G1",
+     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema.ghtml",
+     "paywall": false
+    }
+   ]
   }
  ],
  "fontes_indisponiveis": [],
@@ -3219,5 +3219,5 @@
   "Valor Econômico",
   "ge"
  ],
- "total_noticias_lidas": 367
+ "total_noticias_lidas": 366
 }
