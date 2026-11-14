@@ -42,6 +42,12 @@ MAX_LISTA = 12          # notícias nas categorias (além das 3 do dia)
 MAX_TRECHO = 280        # caracteres do trecho mostrado
 MAX_ACERVO = 200        # notícias guardadas para a busca por temas
 
+# Títulos com cara de propaganda/oferta não entram no resumo
+PROPAGANDA = re.compile(
+    r"black (friday|november)|cupom|oferta|promo[cç][aã]o|desconto|"
+    r"despenca \d+%|na amazon|no mercado livre|frete gr[aá]tis|publieditorial|conte[uú]do patrocinado",
+    re.IGNORECASE)
+
 CATEGORIAS = ["brasil", "politica", "economia", "mundo", "tecnologia", "esportes", "bahia"]
 
 CABECALHO = {
@@ -131,13 +137,16 @@ def coletar(fontes, inicio, fim):
             falhas.add(fonte["nome"])
             continue
         ok.add(fonte["nome"])
-        aproveitadas = 0
+        aproveitadas = sem_dados = 0
         for e in entradas:
             titulo = limpar_texto(e.get("title"))
             link = (e.get("link") or "").strip()
             quando = data_da_entrada(e)
             if not titulo or not link.startswith("http") or quando is None:
+                sem_dados += 1
                 continue  # sem título, link ou data: descarta
+            if PROPAGANDA.search(titulo):
+                continue  # propaganda/oferta: descarta
             quando_local = quando.astimezone(FUSO)
             if not (inicio <= quando_local < fim):
                 continue  # fora da janela de 24 h: descarta
@@ -158,7 +167,8 @@ def coletar(fontes, inicio, fim):
                 "_chaves": palavras_chave(titulo),
             })
             aproveitadas += 1
-        print(f"  ✓ {fonte['nome']} ({fonte['cat']}): {aproveitadas} na janela")
+        print(f"  ✓ {fonte['nome']} ({fonte['cat']}): {aproveitadas} na janela "
+              f"(de {len(entradas)} no feed; {sem_dados} sem título/link/data)")
     # Fonte que falhou num feed mas funcionou em outro não conta como indisponível
     return noticias, sorted(falhas - ok)
 
@@ -169,7 +179,8 @@ def parecidas(a, b):
     if not a or not b:
         return False
     comuns = len(a & b)
-    return comuns >= 3 and comuns / min(len(a), len(b)) >= 0.6
+    proporcao = comuns / min(len(a), len(b))
+    return (comuns >= 3 and proporcao >= 0.5) or (comuns >= 2 and proporcao >= 0.75)
 
 
 def agrupar(noticias):

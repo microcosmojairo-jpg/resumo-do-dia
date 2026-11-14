@@ -23,9 +23,6 @@
     {"nome": "UOL", "cat": "brasil", "url": "https://rss.uol.com.br/feed/noticias.xml", "paywall": false, "ativa": true},
 
     {"nome": "CNN Brasil", "cat": "brasil", "url": "https://www.cnnbrasil.com.br/feed/", "paywall": false, "ativa": true},
-    {"nome": "CNN Brasil", "cat": "politica", "url": "https://www.cnnbrasil.com.br/politica/feed/", "paywall": false, "ativa": true},
-    {"nome": "CNN Brasil", "cat": "economia", "url": "https://www.cnnbrasil.com.br/economia/feed/", "paywall": false, "ativa": true},
-    {"nome": "CNN Brasil", "cat": "mundo", "url": "https://www.cnnbrasil.com.br/internacional/feed/", "paywall": false, "ativa": true},
 
     {"nome": "BBC News Brasil", "cat": "mundo", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml", "paywall": false, "ativa": true},
 
