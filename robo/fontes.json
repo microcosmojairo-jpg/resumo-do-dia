@@ -1,0 +1,52 @@
+{
+  "_leia_me": "Lista de fontes do Resumo do Dia. Cada linha é um feed RSS oficial. Para tirar uma fonte, mude 'ativa' para false. Categorias: brasil, mundo, economia, politica, tecnologia, esportes, bahia, agro (agro só alimenta a seção 'Meus temas').",
+  "fontes": [
+    {"nome": "G1", "cat": "brasil", "url": "https://g1.globo.com/rss/g1/", "paywall": false, "ativa": true},
+    {"nome": "G1", "cat": "politica", "url": "https://g1.globo.com/rss/g1/politica/", "paywall": false, "ativa": true},
+    {"nome": "G1", "cat": "economia", "url": "https://g1.globo.com/rss/g1/economia/", "paywall": false, "ativa": true},
+    {"nome": "G1", "cat": "mundo", "url": "https://g1.globo.com/rss/g1/mundo/", "paywall": false, "ativa": true},
+    {"nome": "G1", "cat": "tecnologia", "url": "https://g1.globo.com/rss/g1/tecnologia/", "paywall": false, "ativa": true},
+    {"nome": "G1 Bahia", "cat": "bahia", "url": "https://g1.globo.com/rss/g1/bahia/", "paywall": false, "ativa": true},
+    {"nome": "ge", "cat": "esportes", "url": "https://ge.globo.com/rss/ge/", "paywall": false, "ativa": true},
+
+    {"nome": "Folha", "cat": "brasil", "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml", "paywall": true, "ativa": true},
+    {"nome": "Folha", "cat": "politica", "url": "https://feeds.folha.uol.com.br/poder/rss091.xml", "paywall": true, "ativa": true},
+    {"nome": "Folha", "cat": "economia", "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml", "paywall": true, "ativa": true},
+    {"nome": "Folha", "cat": "mundo", "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml", "paywall": true, "ativa": true},
+    {"nome": "Folha", "cat": "tecnologia", "url": "https://feeds.folha.uol.com.br/tec/rss091.xml", "paywall": true, "ativa": true},
+    {"nome": "Folha", "cat": "esportes", "url": "https://feeds.folha.uol.com.br/esporte/rss091.xml", "paywall": true, "ativa": true},
+
+    {"nome": "Estadão", "cat": "politica", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/", "paywall": true, "ativa": true},
+    {"nome": "Estadão", "cat": "economia", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/", "paywall": true, "ativa": true},
+    {"nome": "Estadão", "cat": "mundo", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/internacional/", "paywall": true, "ativa": true},
+
+    {"nome": "UOL", "cat": "brasil", "url": "https://rss.uol.com.br/feed/noticias.xml", "paywall": false, "ativa": true},
+
+    {"nome": "CNN Brasil", "cat": "brasil", "url": "https://www.cnnbrasil.com.br/feed/", "paywall": false, "ativa": true},
+    {"nome": "CNN Brasil", "cat": "politica", "url": "https://www.cnnbrasil.com.br/politica/feed/", "paywall": false, "ativa": true},
+    {"nome": "CNN Brasil", "cat": "economia", "url": "https://www.cnnbrasil.com.br/economia/feed/", "paywall": false, "ativa": true},
+    {"nome": "CNN Brasil", "cat": "mundo", "url": "https://www.cnnbrasil.com.br/internacional/feed/", "paywall": false, "ativa": true},
+
+    {"nome": "BBC News Brasil", "cat": "mundo", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml", "paywall": false, "ativa": true},
+
+    {"nome": "Agência Brasil", "cat": "brasil", "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml", "paywall": false, "ativa": true},
+    {"nome": "Agência Brasil", "cat": "politica", "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml", "paywall": false, "ativa": true},
+    {"nome": "Agência Brasil", "cat": "economia", "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml", "paywall": false, "ativa": true},
+    {"nome": "Agência Brasil", "cat": "mundo", "url": "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml", "paywall": false, "ativa": true},
+    {"nome": "Agência Brasil", "cat": "esportes", "url": "https://agenciabrasil.ebc.com.br/rss/esportes/feed.xml", "paywall": false, "ativa": true},
+
+    {"nome": "Poder360", "cat": "politica", "url": "https://www.poder360.com.br/feed/", "paywall": false, "ativa": true},
+    {"nome": "Valor Econômico", "cat": "economia", "url": "https://valor.globo.com/rss/valor/", "paywall": true, "ativa": true},
+
+    {"nome": "DW Brasil", "cat": "mundo", "url": "https://rss.dw.com/rdf/rss-br-all", "paywall": false, "ativa": true},
+    {"nome": "RFI Brasil", "cat": "mundo", "url": "https://www.rfi.fr/br/rss", "paywall": false, "ativa": true},
+
+    {"nome": "Tecnoblog", "cat": "tecnologia", "url": "https://tecnoblog.net/feed/", "paywall": false, "ativa": true},
+
+    {"nome": "A Tarde", "cat": "bahia", "url": "https://atarde.com.br/rss", "paywall": false, "ativa": true},
+    {"nome": "Correio", "cat": "bahia", "url": "https://www.correio24horas.com.br/rss", "paywall": false, "ativa": true},
+
+    {"nome": "Globo Rural", "cat": "agro", "url": "https://globorural.globo.com/rss/globorural/", "paywall": false, "ativa": true},
+    {"nome": "Canal Rural", "cat": "agro", "url": "https://www.canalrural.com.br/feed/", "paywall": false, "ativa": true}
+  ]
+}

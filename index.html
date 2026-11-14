@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Resumo do Dia</title>
+  <meta name="description" content="As principais notícias das últimas 24 horas, prontas às 6:00.">
+  <meta name="theme-color" content="#14161c">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icones/icone-192.png">
+  <link rel="apple-touch-icon" href="icones/icone-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Resumo">
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="topo-linha">
+      <div>
+        <h1>Resumo do Dia</h1>
+        <p id="data-edicao" class="data">Carregando…</p>
+      </div>
+      <button id="btn-config" class="icone" aria-label="Configurações" title="Configurações">⚙︎</button>
+    </div>
+    <p id="janela" class="janela"></p>
+    <div class="acoes">
+      <button id="btn-ouvir" class="botao principal">▶ Ouvir</button>
+      <button id="btn-atualizar" class="botao">↻ Atualizar</button>
+      <select id="historico" class="botao" aria-label="Edições anteriores"></select>
+    </div>
+  </header>
+
+  <div id="player" class="player" hidden>
+    <button id="pl-voltar" class="icone" aria-label="Notícia anterior">⏮</button>
+    <button id="pl-pausar" class="icone" aria-label="Pausar">⏸</button>
+    <button id="pl-avancar" class="icone" aria-label="Próxima notícia">⏭</button>
+    <span id="pl-status" class="pl-status"></span>
+    <button id="pl-parar" class="icone" aria-label="Parar">✕</button>
+  </div>
+
+  <main id="conteudo">
+    <div id="aviso" class="aviso" hidden></div>
+    <section id="sec-tres" hidden>
+      <h2 class="titulo-secao">⭐ As 3 do dia</h2>
+      <div id="tres" class="lista"></div>
+    </section>
+    <div id="categorias"></div>
+    <section id="sec-temas" hidden>
+      <h2 class="titulo-secao">🎯 Meus temas</h2>
+      <div id="temas"></div>
+    </section>
+    <section id="sec-boas" hidden>
+      <h2 class="titulo-secao">🌱 Boas notícias</h2>
+      <p class="nota">Selecionadas e verificadas pelo Vagalume Daily.</p>
+      <div id="boas" class="lista"></div>
+    </section>
+    <p id="fim" class="fim" hidden>✓ Você está em dia.</p>
+  </main>
+
+  <footer class="rodape">
+    <p id="indisponiveis" class="indisponiveis"></p>
+    <p>Títulos e trechos são dos próprios veículos. Toque em "Ler" para ver a matéria completa no site de origem.</p>
+    <p><a href="privacidade.html">Política de privacidade</a></p>
+  </footer>
+
+  <dialog id="config">
+    <form method="dialog" class="config">
+      <h2>Configurações</h2>
+
+      <label class="chave"><input type="checkbox" id="cfg-boas"> Mostrar <b>Boas notícias</b></label>
+      <label class="chave"><input type="checkbox" id="cfg-temas"> Mostrar <b>Meus temas</b></label>
+
+      <fieldset id="cfg-temas-box">
+        <legend>Meus temas</legend>
+        <p class="nota">Um tema por linha: <code>Nome: palavra, palavra, palavra</code></p>
+        <textarea id="cfg-temas-texto" rows="6"></textarea>
+        <button type="button" id="cfg-temas-padrao" class="botao pequeno">Voltar aos temas sugeridos</button>
+      </fieldset>
+
+      <fieldset>
+        <legend>Fontes</legend>
+        <p class="nota">Desmarque um veículo para não ver as notícias dele.</p>
+        <div id="cfg-fontes" class="fontes"></div>
+      </fieldset>
+
+      <label class="chave">Tamanho da letra
+        <select id="cfg-letra">
+          <option value="1">Normal</option>
+          <option value="1.12">Grande</option>
+          <option value="1.25">Muito grande</option>
+        </select>
+      </label>
+
+      <div class="acoes">
+        <button value="ok" id="cfg-salvar" class="botao principal">Salvar</button>
+        <button value="cancelar" class="botao">Cancelar</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

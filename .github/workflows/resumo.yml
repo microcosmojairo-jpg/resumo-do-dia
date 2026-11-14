@@ -1,0 +1,56 @@
+name: Resumo das 6h
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 9:00 UTC = 6:00 na Bahia (UTC-3). O GitHub pode atrasar alguns minutos.
+  workflow_dispatch:       # botão "Run workflow" para rodar na hora
+  push:
+    branches: [main]
+    paths-ignore: ["dados/**"]   # mudança no app: só republica, sem buscar notícias
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: resumo
+  cancel-in-progress: false
+
+jobs:
+  resumo:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Preparar Python
+        if: github.event_name != 'push'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar as notícias das últimas 24 h
+        if: github.event_name != 'push'
+        run: |
+          pip install --quiet feedparser requests
+          python robo/buscar_noticias.py
+
+      - name: Guardar o resumo no repositório
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "robo-resumo"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados
+          git diff --cached --quiet || git commit -m "Resumo de $(TZ=America/Bahia date +%F)"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Publicar o app
+        id: publicar
+        uses: actions/deploy-pages@v4
