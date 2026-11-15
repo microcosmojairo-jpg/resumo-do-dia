@@ -40,7 +40,7 @@ DIAS_HISTORICO = 7
 MAX_POR_CATEGORIA = 3
 MAX_LISTA = 12          # notícias nas categorias (além das 3 do dia)
 MAX_TRECHO = 280        # caracteres do trecho mostrado
-MAX_ACERVO = 200        # notícias guardadas para a busca por temas
+MAX_ACERVO = 400        # notícias guardadas para a busca por temas
 
 # Títulos com cara de propaganda/oferta não entram no resumo
 PROPAGANDA = re.compile(
