@@ -138,6 +138,7 @@ def coletar(fontes, inicio, fim):
             continue
         ok.add(fonte["nome"])
         aproveitadas = sem_dados = 0
+        mais_recente = None
         for e in entradas:
             titulo = limpar_texto(e.get("title"))
             link = (e.get("link") or "").strip()
@@ -148,6 +149,7 @@ def coletar(fontes, inicio, fim):
             if PROPAGANDA.search(titulo):
                 continue  # propaganda/oferta: descarta
             quando_local = quando.astimezone(FUSO)
+            mais_recente = max(mais_recente or quando_local, quando_local)
             if not (inicio <= quando_local < fim):
                 continue  # fora da janela de 24 h: descarta
             if link in vistos:
@@ -170,6 +172,9 @@ def coletar(fontes, inicio, fim):
             })
             aproveitadas += 1
         print(f"  ✓ {fonte['nome']} ({fonte['cat']}): {aproveitadas} na janela "
+              f"(de {len(entradas)} no feed; {sem_dados} sem título/link/data; "
+              f"mais recente: {mais_recente:%d/%m %H:%M} )" if mais_recente else
+              f"  ✓ {fonte['nome']} ({fonte['cat']}): {aproveitadas} na janela "
               f"(de {len(entradas)} no feed; {sem_dados} sem título/link/data)")
     # Fonte que falhou num feed mas funcionou em outro não conta como indisponível
     return noticias, sorted(falhas - ok)

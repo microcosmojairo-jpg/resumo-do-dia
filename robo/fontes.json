@@ -20,7 +20,7 @@
     {"nome": "Estadão", "cat": "economia", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/", "paywall": true, "ativa": true},
     {"nome": "Estadão", "cat": "mundo", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/internacional/", "paywall": true, "ativa": true},
 
-    {"nome": "UOL", "cat": "brasil", "url": "https://rss.uol.com.br/feed/noticias.xml", "paywall": false, "ativa": true},
+    {"nome": "UOL", "cat": "brasil", "url": "https://rss.uol.com.br/feed/noticias.xml", "paywall": false, "ativa": false, "_obs": "desativada em 15/11: o feed não informa a data das notícias"},
 
     {"nome": "CNN Brasil", "cat": "brasil", "url": "https://www.cnnbrasil.com.br/feed/", "paywall": false, "ativa": true},
 
