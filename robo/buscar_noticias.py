@@ -238,19 +238,15 @@ def montar_edicao(grupos):
     resto = principais[3:]
 
     escolhidas, contagem = [], Counter()
-    # 1ª volta: até 2 por categoria, para todas aparecerem
-    for g in resto:
-        if contagem[g["cat"]] < 2:
-            escolhidas.append(g)
-            contagem[g["cat"]] += 1
-    # 2ª volta: completa até MAX_LISTA, com no máximo 3 por categoria
-    escolhidas = escolhidas[:MAX_LISTA]
-    for g in resto:
-        if len(escolhidas) >= MAX_LISTA:
-            break
-        if g not in escolhidas and contagem[g["cat"]] < MAX_POR_CATEGORIA:
-            escolhidas.append(g)
-            contagem[g["cat"]] += 1
+    # Voltas: 1 por categoria (todas aparecem), depois até 2, depois até 3,
+    # sempre parando em MAX_LISTA notícias.
+    for limite in (1, 2, MAX_POR_CATEGORIA):
+        for g in resto:
+            if len(escolhidas) >= MAX_LISTA:
+                break
+            if g not in escolhidas and contagem[g["cat"]] < limite:
+                escolhidas.append(g)
+                contagem[g["cat"]] += 1
 
     categorias = {}
     for c in CATEGORIAS:
