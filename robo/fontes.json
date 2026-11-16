@@ -6,7 +6,7 @@
     {"nome": "G1", "cat": "economia", "url": "https://g1.globo.com/rss/g1/economia/", "paywall": false, "ativa": true},
     {"nome": "G1", "cat": "mundo", "url": "https://g1.globo.com/rss/g1/mundo/", "paywall": false, "ativa": true},
     {"nome": "G1", "cat": "tecnologia", "url": "https://g1.globo.com/rss/g1/tecnologia/", "paywall": false, "ativa": true},
-    {"nome": "G1 Bahia", "cat": "bahia", "url": "https://g1.globo.com/rss/g1/bahia/", "paywall": false, "ativa": true},
+    {"nome": "G1 Bahia", "cat": "bahia", "url": "https://g1.globo.com/rss/g1/ba/bahia/", "paywall": false, "ativa": true},
     {"nome": "ge", "cat": "esportes", "url": "https://ge.globo.com/rss/ge/", "paywall": false, "ativa": true},
 
     {"nome": "Folha", "cat": "brasil", "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml", "paywall": true, "ativa": true},
@@ -41,7 +41,7 @@
     {"nome": "Tecnoblog", "cat": "tecnologia", "url": "https://tecnoblog.net/feed/", "paywall": false, "ativa": true},
 
     {"nome": "A Tarde", "cat": "bahia", "url": "https://atarde.com.br/rss", "paywall": false, "ativa": true},
-    {"nome": "Correio", "cat": "bahia", "url": "https://www.correio24horas.com.br/rss", "paywall": false, "ativa": true},
+    {"nome": "Correio", "cat": "bahia", "url": "https://www.correio24horas.com.br/rss", "paywall": false, "ativa": false, "_obs": "desativada em 16/11: feed parado desde abril"},
 
     {"nome": "Globo Rural", "cat": "agro", "url": "https://globorural.globo.com/rss/globorural/", "paywall": false, "ativa": true},
     {"nome": "Canal Rural", "cat": "agro", "url": "https://www.canalrural.com.br/feed/", "paywall": false, "ativa": true}

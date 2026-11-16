@@ -1,11 +1,4 @@
 {
-  "_leia_me": "Feeds em teste. Só são lidos no modo 'so_testar'; não entram no resumo.",
-  "fontes": [
-    {"nome": "TESTE G1 Bahia (ba/bahia)", "cat": "bahia", "url": "https://g1.globo.com/rss/g1/ba/bahia/"},
-    {"nome": "TESTE Correio (feed)", "cat": "bahia", "url": "https://www.correio24horas.com.br/feed"},
-    {"nome": "TESTE Correio (rss/)", "cat": "bahia", "url": "https://www.correio24horas.com.br/rss/"},
-    {"nome": "TESTE Bahia Notícias", "cat": "bahia", "url": "https://www.bahianoticias.com.br/rss"},
-    {"nome": "TESTE Bahia Notícias (feed)", "cat": "bahia", "url": "https://www.bahianoticias.com.br/feed"},
-    {"nome": "TESTE Agência Brasil Geral", "cat": "brasil", "url": "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml"}
-  ]
+ "_leia_me": "Feeds em teste. Só são lidos no modo 'so_testar'; não entram no resumo.",
+ "fontes": []
 }
