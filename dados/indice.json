@@ -1,11 +1,12 @@
 {
  "edicoes": [
+  "2026-11-16",
   "2026-11-15",
   "2026-11-14"
  ],
- "ultima_tentativa": "2026-11-15T06:32-03:00",
+ "ultima_tentativa": "2026-11-16T07:39-03:00",
  "ultima_tentativa_falhou": false,
- "edicao_tentada": "2026-11-15",
+ "edicao_tentada": "2026-11-16",
  "fontes_indisponiveis": [],
- "total_fontes": 18
+ "total_fontes": 17
 }
