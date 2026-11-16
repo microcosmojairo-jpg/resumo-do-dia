@@ -17,6 +17,7 @@ trecho que o próprio veículo publicou no feed. Nada é inventado.
 
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -294,10 +295,25 @@ def atualizar_indice(data_edicao, falhou, total_fontes, indisponiveis):
     gravar_json(arq, indice)
 
 
+def testar_fontes():
+    """Só testa os feeds (os ativos e os candidatos) e mostra o resultado. Não grava nada."""
+    inicio, fim, _ = janela_de_tempo()
+    todas = ler_json(ARQ_FONTES, {"fontes": []})["fontes"]
+    todas += ler_json(Path(__file__).resolve().parent / "candidatas.json", {"fontes": []})["fontes"]
+    print("MODO TESTE: nada será gravado.")
+    coletar(todas, inicio, fim)
+    return 0
+
+
 def main():
+    if os.environ.get("SO_TESTAR") == "sim":
+        return testar_fontes()
     config = ler_json(ARQ_FONTES, {"fontes": []})
     fontes = [f for f in config["fontes"] if f.get("ativa", True)]
     inicio, fim, data_edicao = janela_de_tempo()
+    if (PASTA_DADOS / f"{data_edicao}.json").exists() and os.environ.get("FORCAR") != "sim":
+        print(f"A edição {data_edicao} já foi gerada mais cedo. Nada a fazer.")
+        return 0
     print(f"Edição {data_edicao}: notícias de {inicio:%d/%m %H:%M} até {fim - timedelta(minutes=1):%d/%m %H:%M}")
 
     noticias, indisponiveis = coletar(fontes, inicio, fim)

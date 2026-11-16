@@ -1,5 +1,5 @@
 /* Guarda o app e os últimos resumos no celular para funcionar sem internet. */
-const VERSAO = "resumo-v1";
+const VERSAO = "resumo-v2";
 const ARQUIVOS = ["./", "index.html", "estilo.css", "app.js", "manifest.webmanifest", "privacidade.html", "icones/icone-192.png"];
 
 self.addEventListener("install", (e) => {

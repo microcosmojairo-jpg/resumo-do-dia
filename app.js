@@ -163,6 +163,7 @@ async function desenharBoas() {
 
 /* ------------------------------------------------------------ carregamento */
 async function carregar(dataEscolhida) {
+  ultimaCarga = Date.now();
   pararAudio();
   $("#aviso").hidden = true;
   try {
@@ -274,6 +275,20 @@ $("#config").addEventListener("close", () => {
   if (edicao) desenhar();
 });
 function aplicarLetra() { document.documentElement.style.setProperty("--escala", prefs.letra); }
+
+/* ------------------------------------------------------------ recarga automática
+   O celular deixa o app "congelado" em segundo plano. Ao voltar para ele,
+   busca de novo se já passou meia hora desde a última vez. */
+let ultimaCarga = Date.now();
+function talvezRecarregar() {
+  if (document.visibilityState !== "visible") return;
+  if (Date.now() - ultimaCarga < 30 * 60 * 1000) return;
+  if ($("#historico").value && indice && $("#historico").value !== indice.edicoes[0]) return; // está vendo edição antiga de propósito
+  if (!$("#player").hidden) return; // não interrompe o áudio
+  carregar();
+}
+document.addEventListener("visibilitychange", talvezRecarregar);
+window.addEventListener("pageshow", (e) => { if (e.persisted) talvezRecarregar(); });
 
 /* ------------------------------------------------------------ início */
 $("#btn-atualizar").onclick = () => carregar();
